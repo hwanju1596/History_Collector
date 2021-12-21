@@ -1,0 +1,16 @@
+{
+  "name": "History_Collector",
+  "version": "1.0.0",
+  "description": "[TypeScript][React][HTML][CSS]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hwanjulee.synology.me:60001/Hwanju/history_collector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
